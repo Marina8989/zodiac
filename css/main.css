@@ -1,0 +1,67 @@
+body {
+	text-align: center;
+	/*background: linear-gradient(#fff, #ccf2ff, #99e6ff, #00ace6, #006080, #00394d, #002633);*/
+	background-repeat: repeat-x;
+    width: 100%;
+    background-color: #efe6ca;
+	
+	/*background: linear-gradient(#333, #363036, #382e38, #3b2b3b, #3d293d, #402640, #422442);
+*/
+}
+
+
+h1 {
+	font-family: 'Rakkas', cursive;
+    font-size: 37px;
+	padding: 20px;
+	line-height: 3px;
+	letter-spacing: 5px;
+    color: #404040;
+
+}
+#sign {
+	width: 410px;
+	height: 45px;
+	margin: 10px;
+
+}
+input {
+	font-size: 27px;
+	font-family: 'Rakkas', cursive;
+	color: #404040;
+
+	
+}
+
+button {
+	width: 85px;
+	height: 45px;
+	margin: 20px;
+	color: #404040;
+	font-family: 'Rakkas', cursive;
+}
+#zodiac {
+	font-family: 'Rakkas', cursive;
+    font-size: 47px;
+    color: #404040;
+
+}
+#message {
+	font-family: 'Rakkas', cursive;
+	color: #404040;
+}
+
+}
+#wallpapper {
+	border-radius: 250px;
+	height: 300px;
+	width: 300px;
+	box-shadow: red;
+	color: #404040 !important;
+
+}
+.text {
+	padding-top: 275px;
+}
+
+
